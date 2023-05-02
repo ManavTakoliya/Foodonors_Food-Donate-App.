@@ -1,4 +1,4 @@
-# Foo<i>donor</i> Admin Panel
+# Foo<i>donor</i>
 
 <b><h3> Problem Statement : (Social Cause) Designing a system for tracking and reducing food waste and garbage in local areas.</h3></b>
 ### This Project was presented in (Swadheenta'23) Hack-Infinity Hackathon 2023.
